@@ -23,10 +23,10 @@
 
 ```bash
 # macOS / Linux
-git clone https://github.com/YOUR_USERNAME/tmt-watch.git ~/.claude/plugins/my-plugins/tmt-watch
+git clone https://github.com/yuyiran-rachel/tmt-watch.git ~/.claude/plugins/my-plugins/tmt-watch
 
 # Windows (PowerShell)
-git clone https://github.com/YOUR_USERNAME/tmt-watch.git $env:USERPROFILE\.claude\plugins\my-plugins\tmt-watch
+git clone https://github.com/yuyiran-rachel/tmt-watch.git $env:USERPROFILE\.claude\plugins\my-plugins\tmt-watch
 ```
 
 重启 Claude Code 或运行 `/plugins reload`。
