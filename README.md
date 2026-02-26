@@ -15,7 +15,7 @@
 ## 依赖
 
 - **Claude Code** — 需要安装并配置
-- **Yahoo Finance MCP Server** — 需要在 Claude Code 中配置 `yfinance` MCP
+- **[Yahoo Finance MCP Server](https://github.com/Alex2Yang97/yahoo-finance-mcp)** — 需要在 Claude Code 中配置 `yfinance` MCP
 
 ## 安装
 
