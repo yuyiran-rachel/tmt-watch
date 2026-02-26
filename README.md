@@ -106,6 +106,10 @@ tmt scan
 - 盘前/盘后时段（PRE/POST）价格波动较大，快报中会注明市场状态
 - 本工具仅用于信息参考，不构成投资建议
 
+## 致谢
+
+数据层由 [Alex2Yang97/yahoo-finance-mcp](https://github.com/Alex2Yang97/yahoo-finance-mcp) 提供支持，感谢作者构建并维护了这个优质的 Yahoo Finance MCP Server。
+
 ## License
 
 MIT
