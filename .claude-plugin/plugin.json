@@ -1,0 +1,7 @@
+{
+  "name": "tmt-watch",
+  "description": "美股TMT板块盯盘助手，基于Yahoo Finance MCP实时监控价格和成交量异动",
+  "author": {
+    "name": "于怡然"
+  }
+}
